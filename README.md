@@ -1,0 +1,3 @@
+# Digital Currency Converter
+
+Explore the world of digital currencies with my interactive Currency Converter! Built with HTML, CSS, and JavaScript, this project allows you to effortlessly convert between various digital currencies. The intuitive user interface, crafted using HTML and styled with CSS, provides a seamless experience for users. JavaScript powers the real-time currency conversion functionality, ensuring accurate and up-to-date rates. Clone the repository, open the `index.html` file in your browser, and start converting digital currencies with ease. Your feedback is valuable, so feel free to share your thoughts and suggestions to enhance this digital currency converter.
